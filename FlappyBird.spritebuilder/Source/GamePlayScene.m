@@ -26,7 +26,7 @@
         [self addObstacle];
         
         //Then reset timer
-        timeSinceObstacle = 0.0f
+        timeSinceObstacle = 0.0f;
     }
 }
 
