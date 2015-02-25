@@ -17,6 +17,7 @@
 -(void)update:(CCTime)delta
 {
     // put update code here
+    
     //increment the time since the last obstacle was added
     timeSinceObstacle += delta; //delta is about equal to 1/60th of a second
     
